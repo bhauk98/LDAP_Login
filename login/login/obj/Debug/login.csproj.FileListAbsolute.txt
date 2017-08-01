@@ -1,0 +1,9 @@
+c:\users\bhauk\documents\visual studio 2017\Projects\login\login\bin\Debug\login.exe.config
+c:\users\bhauk\documents\visual studio 2017\Projects\login\login\bin\Debug\login.exe
+c:\users\bhauk\documents\visual studio 2017\Projects\login\login\bin\Debug\login.pdb
+c:\users\bhauk\documents\visual studio 2017\Projects\login\login\obj\Debug\login.csprojResolveAssemblyReference.cache
+c:\users\bhauk\documents\visual studio 2017\Projects\login\login\obj\Debug\login.Properties.Resources.resources
+c:\users\bhauk\documents\visual studio 2017\Projects\login\login\obj\Debug\login.csproj.GenerateResource.Cache
+c:\users\bhauk\documents\visual studio 2017\Projects\login\login\obj\Debug\login.exe
+c:\users\bhauk\documents\visual studio 2017\Projects\login\login\obj\Debug\login.pdb
+C:\Users\bhauk\Documents\Visual Studio 2017\Projects\login\login\obj\Debug\login.Form1.resources
