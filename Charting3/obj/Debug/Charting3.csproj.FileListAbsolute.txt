@@ -1,0 +1,10 @@
+C:\Users\bhauk\Documents\Visual Studio 2017\Projects\Charting3\Charting3\bin\Debug\Charting3.exe.config
+C:\Users\bhauk\Documents\Visual Studio 2017\Projects\Charting3\Charting3\bin\Debug\Charting3.exe
+C:\Users\bhauk\Documents\Visual Studio 2017\Projects\Charting3\Charting3\bin\Debug\Charting3.pdb
+C:\Users\bhauk\Documents\Visual Studio 2017\Projects\Charting3\Charting3\obj\Debug\Charting3.csprojResolveAssemblyReference.cache
+C:\Users\bhauk\Documents\Visual Studio 2017\Projects\Charting3\Charting3\obj\Debug\Charting3.Form1.resources
+C:\Users\bhauk\Documents\Visual Studio 2017\Projects\Charting3\Charting3\obj\Debug\Charting3.Properties.Resources.resources
+C:\Users\bhauk\Documents\Visual Studio 2017\Projects\Charting3\Charting3\obj\Debug\Charting3.csproj.GenerateResource.Cache
+C:\Users\bhauk\Documents\Visual Studio 2017\Projects\Charting3\Charting3\obj\Debug\Charting3.csproj.CoreCompileInputs.cache
+C:\Users\bhauk\Documents\Visual Studio 2017\Projects\Charting3\Charting3\obj\Debug\Charting3.exe
+C:\Users\bhauk\Documents\Visual Studio 2017\Projects\Charting3\Charting3\obj\Debug\Charting3.pdb
