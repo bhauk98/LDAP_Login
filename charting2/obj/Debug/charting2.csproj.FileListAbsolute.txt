@@ -1,0 +1,10 @@
+c:\users\bhauk\documents\visual studio 2017\Projects\charting2\charting2\bin\Debug\charting2.exe.config
+c:\users\bhauk\documents\visual studio 2017\Projects\charting2\charting2\bin\Debug\charting2.exe
+c:\users\bhauk\documents\visual studio 2017\Projects\charting2\charting2\bin\Debug\charting2.pdb
+c:\users\bhauk\documents\visual studio 2017\Projects\charting2\charting2\obj\Debug\charting2.Form1.resources
+c:\users\bhauk\documents\visual studio 2017\Projects\charting2\charting2\obj\Debug\charting2.Properties.Resources.resources
+c:\users\bhauk\documents\visual studio 2017\Projects\charting2\charting2\obj\Debug\charting2.csproj.GenerateResource.Cache
+c:\users\bhauk\documents\visual studio 2017\Projects\charting2\charting2\obj\Debug\charting2.exe
+c:\users\bhauk\documents\visual studio 2017\Projects\charting2\charting2\obj\Debug\charting2.pdb
+c:\users\bhauk\documents\visual studio 2017\Projects\charting2\charting2\obj\Debug\charting2.csprojResolveAssemblyReference.cache
+C:\Users\bhauk\Documents\Visual Studio 2017\Projects\charting2\charting2\obj\Debug\charting2.csproj.CoreCompileInputs.cache
