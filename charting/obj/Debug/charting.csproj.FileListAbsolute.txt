@@ -1,0 +1,12 @@
+c:\users\bhauk\documents\visual studio 2017\Projects\charting\charting\bin\Debug\charting.exe.config
+c:\users\bhauk\documents\visual studio 2017\Projects\charting\charting\bin\Debug\charting.exe
+c:\users\bhauk\documents\visual studio 2017\Projects\charting\charting\bin\Debug\charting.pdb
+c:\users\bhauk\documents\visual studio 2017\Projects\charting\charting\obj\Debug\charting.csprojResolveAssemblyReference.cache
+c:\users\bhauk\documents\visual studio 2017\Projects\charting\charting\obj\Debug\charting.Form1.resources
+c:\users\bhauk\documents\visual studio 2017\Projects\charting\charting\obj\Debug\charting.Properties.Resources.resources
+c:\users\bhauk\documents\visual studio 2017\Projects\charting\charting\obj\Debug\charting.csproj.GenerateResource.Cache
+c:\users\bhauk\documents\visual studio 2017\Projects\charting\charting\obj\Debug\charting.exe
+c:\users\bhauk\documents\visual studio 2017\Projects\charting\charting\obj\Debug\charting.pdb
+C:\Users\bhauk\documents\visual studio 2017\Projects\charting\charting\bin\Debug\MySql.Data.dll
+C:\Users\bhauk\documents\visual studio 2017\Projects\charting\charting\bin\Debug\MySql.Data.xml
+C:\Users\bhauk\documents\visual studio 2017\Projects\charting\charting\obj\Debug\charting.csproj.CoreCompileInputs.cache
